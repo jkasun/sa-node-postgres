@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pg": "^7.17.1",
+    "pg": "^8.11.0",
     "pg-cursor": "^2.1.6"
   }
 }
